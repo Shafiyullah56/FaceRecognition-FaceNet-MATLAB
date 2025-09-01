@@ -7,6 +7,4 @@
       <p> Create Database Menu Display </p>
       <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/43e0c47e-28d7-4448-83ac-80103481190f" style="width: 45%; margin: 2%; display: inline-block;">
       <p> Face Recognition Menu Display </p>
-      <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/89e32377-1765-4f04-abe6-b8a2e1c94a1a style="width: 45%; margin: 2%; display: inline-block;">
-      <p> Electronic Circuit </p>
     </div>
