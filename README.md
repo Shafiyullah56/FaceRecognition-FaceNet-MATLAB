@@ -7,6 +7,7 @@
       <p> Create Database Menu Display </p>
       <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/43e0c47e-28d7-4448-83ac-80103481190f" style="width: 45%; margin: 2%; display: inline-block;">
       <p> Face Recognition Menu Display </p>
+      <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/3bffd497-d92f-4cd2-81db-d1294c528bd6" style="width: 45%; margin: 2%; display: inline-block;">
     </div>
 <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/3bffd497-d92f-4cd2-81db-d1294c528bd6" />
 <img width="826" height="584" alt="image" src="https://github.com/user-attachments/assets/3bffd497-d92f-4cd2-81db-d1294c528bd6" />
