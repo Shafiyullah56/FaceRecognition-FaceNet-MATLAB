@@ -9,3 +9,5 @@
       <p> Face Recognition Menu Display </p>
     </div>
 <img width="575" height="413" alt="image" src="https://github.com/user-attachments/assets/361c0c57-e03f-417e-9d07-36830a487a8a" />
+<img width="826" height="584" alt="image" src="https://github.com/user-attachments/assets/3bffd497-d92f-4cd2-81db-d1294c528bd6" />
+
