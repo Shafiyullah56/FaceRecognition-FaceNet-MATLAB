@@ -8,3 +8,4 @@
       <img width="429" height="340" alt="image" src="https://github.com/user-attachments/assets/43e0c47e-28d7-4448-83ac-80103481190f" style="width: 45%; margin: 2%; display: inline-block;">
       <p> Face Recognition Menu Display </p>
     </div>
+<img width="575" height="413" alt="image" src="https://github.com/user-attachments/assets/361c0c57-e03f-417e-9d07-36830a487a8a" />
